@@ -6,7 +6,6 @@ Comprehensive SQL project demonstrating advanced database design, complex querie
 - PostgreSQL 16
 - Python 3.12
 - Power BI
-- Tableau
 
 ## Setup Instructions
 
